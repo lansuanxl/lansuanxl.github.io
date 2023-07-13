@@ -23,12 +23,15 @@
             "tags": []
         },
         {
-            "id": "https://lansuanxl.github.io/2023/07/11/%E7%83%82%E8%92%9C%E5%B0%8F%E5%88%98%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/",
-            "url": "https://lansuanxl.github.io/2023/07/11/%E7%83%82%E8%92%9C%E5%B0%8F%E5%88%98%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/",
+            "id": "https://lansuanxl.github.io/2023/07/11/web%E5%89%8D%E7%AB%AF/%E7%83%82%E8%92%9C%E5%B0%8F%E5%88%98%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/",
+            "url": "https://lansuanxl.github.io/2023/07/11/web%E5%89%8D%E7%AB%AF/%E7%83%82%E8%92%9C%E5%B0%8F%E5%88%98%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/",
             "title": "烂蒜小刘的第一篇博客",
             "date_published": "2023-07-11T07:52:26.000Z",
             "content_html": "",
-            "tags": []
+            "tags": [
+                "web前端",
+                "烂蒜小刘"
+            ]
         },
         {
             "id": "https://lansuanxl.github.io/2023/07/09/hello-world/",
