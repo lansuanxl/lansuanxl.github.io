@@ -1,19 +1,26 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>烂蒜小刘的博客</title>
-        <subtitle>烂蒜小刘的博客</subtitle>
+        <title>烂蒜小刘</title>
+        <subtitle>愿此行，终抵群星</subtitle>
         <icon>https://lansuanxl.github.io/images/favicon.ico</icon>
         <link>https://lansuanxl.github.io</link>
         <author>
-          <name>烂蒜小刘</name>
+          <name>lansuanxl</name>
         </author>
-        <description>烂蒜小刘的博客</description>
+        <description>好好学习，天天向上</description>
         <language>zh-CN</language>
-        <pubDate>Wed, 12 Jul 2023 14:43:42 +0800</pubDate>
-        <lastBuildDate>Wed, 12 Jul 2023 14:43:42 +0800</lastBuildDate>
+        <pubDate>Wed, 12 Jul 2023 20:32:09 +0800</pubDate>
+        <lastBuildDate>Wed, 12 Jul 2023 20:32:09 +0800</lastBuildDate>
         <category term="博客" />
         <category term="笔记" />
+        <item>
+            <guid isPermalink="true">https://lansuanxl.github.io/2023/07/12/about/</guid>
+            <title>about</title>
+            <link>https://lansuanxl.github.io/2023/07/12/about/</link>
+            <pubDate>Wed, 12 Jul 2023 20:32:09 +0800</pubDate>
+            <description><![CDATA[  ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://lansuanxl.github.io/2023/07/12/%E5%85%AC%E5%91%8A/</guid>
             <title>公告</title>

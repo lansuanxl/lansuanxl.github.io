@@ -1,11 +1,19 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "烂蒜小刘的博客",
-    "subtitle": "烂蒜小刘的博客",
+    "title": "烂蒜小刘",
+    "subtitle": "愿此行，终抵群星",
     "icon": "https://lansuanxl.github.io/images/favicon.ico",
-    "description": "烂蒜小刘的博客",
+    "description": "好好学习，天天向上",
     "home_page_url": "https://lansuanxl.github.io",
     "items": [
+        {
+            "id": "https://lansuanxl.github.io/2023/07/12/about/",
+            "url": "https://lansuanxl.github.io/2023/07/12/about/",
+            "title": "about",
+            "date_published": "2023-07-12T12:32:09.000Z",
+            "content_html": "",
+            "tags": []
+        },
         {
             "id": "https://lansuanxl.github.io/2023/07/12/%E5%85%AC%E5%91%8A/",
             "url": "https://lansuanxl.github.io/2023/07/12/%E5%85%AC%E5%91%8A/",

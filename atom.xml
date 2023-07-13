@@ -1,16 +1,23 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lansuanxl.github.io</id>
-    <title>烂蒜小刘的博客</title>
-    <subtitle>烂蒜小刘的博客</subtitle>
+    <title>烂蒜小刘</title>
+    <subtitle>愿此行，终抵群星</subtitle>
     <icon>https://lansuanxl.github.io/images/favicon.ico</icon>
     <link href="https://lansuanxl.github.io" />
     <author>
-      <name>烂蒜小刘</name>
+      <name>lansuanxl</name>
     </author>
-    <updated>2023-07-12T06:43:42.000Z</updated>
+    <updated>2023-07-12T12:32:09.000Z</updated>
     <category term="博客" />
     <category term="笔记" />
+    <entry>
+        <id>https://lansuanxl.github.io/2023/07/12/about/</id>
+        <title>about</title>
+        <link rel="alternate" href="https://lansuanxl.github.io/2023/07/12/about/"/>
+        <content type="html"></content>
+        <updated>2023-07-12T12:32:09.000Z</updated>
+    </entry>
     <entry>
         <id>https://lansuanxl.github.io/2023/07/12/%E5%85%AC%E5%91%8A/</id>
         <title>公告</title>
